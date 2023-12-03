@@ -2,7 +2,6 @@ package qqCommon;
 
 /**
  * 
- * @author sky
  *	
  *	表示消息类型 的接口
  */

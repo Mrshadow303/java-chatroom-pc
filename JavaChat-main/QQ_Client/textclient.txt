@@ -1,0 +1,2198 @@
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 0.0.0.0
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<description
+ logDescription="TextClient"
+ name="TextClient"
+ auxInfo="null"/>
+ 
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 0.0.0.0
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 0.0.0.0
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 0.0.0.0
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 0.0.0.0
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 0.0.0.0
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 0.0.0.0
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 0.0.0.0
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 0.0.0.0
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 0.0.0.0
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1700988562092"
+isSender="true" 
+transactionId="textclientv1.0:13b37bc59c56f84fa5e27f164265c2e6@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="13b37bc59c56f84fa5e27f164265c2e6@26.233.112.129" 
+firstLine="MESSAGE sip:qq@26.233.112.129:5061;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:qq@26.233.112.129:5061;transport=udp SIP/2.0
+Call-ID: 13b37bc59c56f84fa5e27f164265c2e6@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qiuqiu" <sip:qiuqiu@26.233.112.129:5060>;tag=textclientv1.0
+To: "qq" <sip:qq@26.233.112.129:5061>
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Max-Forwards: 70
+Contact: "qiuqiu" <sip:qiuqiu@26.233.112.129:5060>
+Content-Type: text/plain
+Content-Length: 3
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1700988562096"
+isSender="false" 
+transactionId="textclientv1.0:13b37bc59c56f84fa5e27f164265c2e6@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="13b37bc59c56f84fa5e27f164265c2e6@26.233.112.129" 
+firstLine="MESSAGE sip:qq@26.233.112.129:5061;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:qq@26.233.112.129:5061;transport=udp SIP/2.0
+Call-ID: 13b37bc59c56f84fa5e27f164265c2e6@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qiuqiu" <sip:qiuqiu@26.233.112.129:5060>;tag=textclientv1.0
+To: "qq" <sip:qq@26.233.112.129:5061>
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Max-Forwards: 70
+Contact: "qiuqiu" <sip:qiuqiu@26.233.112.129:5060>
+Content-Type: text/plain
+Content-Length: 3
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1700988562151"
+isSender="true" 
+transactionId="textclientv1.0:13b37bc59c56f84fa5e27f164265c2e6@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="13b37bc59c56f84fa5e27f164265c2e6@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 13b37bc59c56f84fa5e27f164265c2e6@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qiuqiu" <sip:qiuqiu@26.233.112.129:5060>;tag=textclientv1.0
+To: "qq" <sip:qq@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1700988562173"
+isSender="false" 
+transactionId="textclientv1.0:13b37bc59c56f84fa5e27f164265c2e6@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="13b37bc59c56f84fa5e27f164265c2e6@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 13b37bc59c56f84fa5e27f164265c2e6@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qiuqiu" <sip:qiuqiu@26.233.112.129:5060>;tag=textclientv1.0
+To: "qq" <sip:qq@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1700988565815"
+isSender="true" 
+transactionId="textclientv1.0:ee85034f2bed00327454f9c81ac17309@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="ee85034f2bed00327454f9c81ac17309@26.233.112.129" 
+firstLine="MESSAGE sip:qiuqiu@26.233.112.129:5060;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:qiuqiu@26.233.112.129:5060;transport=udp SIP/2.0
+Call-ID: ee85034f2bed00327454f9c81ac17309@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qq" <sip:qq@26.233.112.129:5061>;tag=textclientv1.0
+To: "qiuqiu" <sip:qiuqiu@26.233.112.129:5060>
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Max-Forwards: 70
+Contact: "qq" <sip:qq@26.233.112.129:5061>
+Content-Type: text/plain
+Content-Length: 2
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1700988565816"
+isSender="false" 
+transactionId="textclientv1.0:ee85034f2bed00327454f9c81ac17309@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="ee85034f2bed00327454f9c81ac17309@26.233.112.129" 
+firstLine="MESSAGE sip:qiuqiu@26.233.112.129:5060;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:qiuqiu@26.233.112.129:5060;transport=udp SIP/2.0
+Call-ID: ee85034f2bed00327454f9c81ac17309@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qq" <sip:qq@26.233.112.129:5061>;tag=textclientv1.0
+To: "qiuqiu" <sip:qiuqiu@26.233.112.129:5060>
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Max-Forwards: 70
+Contact: "qq" <sip:qq@26.233.112.129:5061>
+Content-Type: text/plain
+Content-Length: 2
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1700988565824"
+isSender="true" 
+transactionId="textclientv1.0:ee85034f2bed00327454f9c81ac17309@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="ee85034f2bed00327454f9c81ac17309@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: ee85034f2bed00327454f9c81ac17309@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qq" <sip:qq@26.233.112.129:5061>;tag=textclientv1.0
+To: "qiuqiu" <sip:qiuqiu@26.233.112.129:5060>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1700988565825"
+isSender="false" 
+transactionId="textclientv1.0:ee85034f2bed00327454f9c81ac17309@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="ee85034f2bed00327454f9c81ac17309@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: ee85034f2bed00327454f9c81ac17309@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qq" <sip:qq@26.233.112.129:5061>;tag=textclientv1.0
+To: "qiuqiu" <sip:qiuqiu@26.233.112.129:5060>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1700988580652"
+isSender="true" 
+transactionId="textclientv1.0:1a5a4903d1868bc618a958b94d0c7645@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="1a5a4903d1868bc618a958b94d0c7645@26.233.112.129" 
+firstLine="MESSAGE sip:qiuqiu@26.233.112.129:5060;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:qiuqiu@26.233.112.129:5060;transport=udp SIP/2.0
+Call-ID: 1a5a4903d1868bc618a958b94d0c7645@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qq" <sip:qq@26.233.112.129:5061>;tag=textclientv1.0
+To: "qiuqiu" <sip:qiuqiu@26.233.112.129:5060>
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Max-Forwards: 70
+Contact: "qq" <sip:qq@26.233.112.129:5061>
+Content-Type: text/plain
+Content-Length: 2
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1700988580653"
+isSender="false" 
+transactionId="textclientv1.0:1a5a4903d1868bc618a958b94d0c7645@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="1a5a4903d1868bc618a958b94d0c7645@26.233.112.129" 
+firstLine="MESSAGE sip:qiuqiu@26.233.112.129:5060;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:qiuqiu@26.233.112.129:5060;transport=udp SIP/2.0
+Call-ID: 1a5a4903d1868bc618a958b94d0c7645@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qq" <sip:qq@26.233.112.129:5061>;tag=textclientv1.0
+To: "qiuqiu" <sip:qiuqiu@26.233.112.129:5060>
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Max-Forwards: 70
+Contact: "qq" <sip:qq@26.233.112.129:5061>
+Content-Type: text/plain
+Content-Length: 2
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1700988580655"
+isSender="true" 
+transactionId="textclientv1.0:1a5a4903d1868bc618a958b94d0c7645@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="1a5a4903d1868bc618a958b94d0c7645@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 1a5a4903d1868bc618a958b94d0c7645@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qq" <sip:qq@26.233.112.129:5061>;tag=textclientv1.0
+To: "qiuqiu" <sip:qiuqiu@26.233.112.129:5060>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1700988580655"
+isSender="false" 
+transactionId="textclientv1.0:1a5a4903d1868bc618a958b94d0c7645@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="1a5a4903d1868bc618a958b94d0c7645@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 1a5a4903d1868bc618a958b94d0c7645@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qq" <sip:qq@26.233.112.129:5061>;tag=textclientv1.0
+To: "qiuqiu" <sip:qiuqiu@26.233.112.129:5060>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1700989270552"
+isSender="true" 
+transactionId="textclientv1.0:46e8bcd9670596a9f77be21380f3f38f@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="46e8bcd9670596a9f77be21380f3f38f@26.233.112.129" 
+firstLine="MESSAGE sip:qqq@26.233.112.129:5060;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:qqq@26.233.112.129:5060;transport=udp SIP/2.0
+Call-ID: 46e8bcd9670596a9f77be21380f3f38f@26.233.112.129
+CSeq: 1 MESSAGE
+From: "www" <sip:www@26.233.112.129:5061>;tag=textclientv1.0
+To: "qqq" <sip:qqq@26.233.112.129:5060>
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Max-Forwards: 70
+Contact: "www" <sip:www@26.233.112.129:5061>
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1700989270557"
+isSender="false" 
+transactionId="textclientv1.0:46e8bcd9670596a9f77be21380f3f38f@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="46e8bcd9670596a9f77be21380f3f38f@26.233.112.129" 
+firstLine="MESSAGE sip:qqq@26.233.112.129:5060;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:qqq@26.233.112.129:5060;transport=udp SIP/2.0
+Call-ID: 46e8bcd9670596a9f77be21380f3f38f@26.233.112.129
+CSeq: 1 MESSAGE
+From: "www" <sip:www@26.233.112.129:5061>;tag=textclientv1.0
+To: "qqq" <sip:qqq@26.233.112.129:5060>
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Max-Forwards: 70
+Contact: "www" <sip:www@26.233.112.129:5061>
+Content-Type: text/plain
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1700989273425"
+isSender="true" 
+transactionId="textclientv1.0:206b1a6c76a06f81a64acc4b47f22ca3@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="206b1a6c76a06f81a64acc4b47f22ca3@26.233.112.129" 
+firstLine="MESSAGE sip:qqq@26.233.112.129:5060;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:qqq@26.233.112.129:5060;transport=udp SIP/2.0
+Call-ID: 206b1a6c76a06f81a64acc4b47f22ca3@26.233.112.129
+CSeq: 1 MESSAGE
+From: "www" <sip:www@26.233.112.129:5061>;tag=textclientv1.0
+To: "qqq" <sip:qqq@26.233.112.129:5060>
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Max-Forwards: 70
+Contact: "www" <sip:www@26.233.112.129:5061>
+Content-Type: text/plain
+Content-Length: 2
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1700989273426"
+isSender="false" 
+transactionId="textclientv1.0:206b1a6c76a06f81a64acc4b47f22ca3@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="206b1a6c76a06f81a64acc4b47f22ca3@26.233.112.129" 
+firstLine="MESSAGE sip:qqq@26.233.112.129:5060;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:qqq@26.233.112.129:5060;transport=udp SIP/2.0
+Call-ID: 206b1a6c76a06f81a64acc4b47f22ca3@26.233.112.129
+CSeq: 1 MESSAGE
+From: "www" <sip:www@26.233.112.129:5061>;tag=textclientv1.0
+To: "qqq" <sip:qqq@26.233.112.129:5060>
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Max-Forwards: 70
+Contact: "www" <sip:www@26.233.112.129:5061>
+Content-Type: text/plain
+Content-Length: 2
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1700989273431"
+isSender="true" 
+transactionId="textclientv1.0:206b1a6c76a06f81a64acc4b47f22ca3@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="206b1a6c76a06f81a64acc4b47f22ca3@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 206b1a6c76a06f81a64acc4b47f22ca3@26.233.112.129
+CSeq: 1 MESSAGE
+From: "www" <sip:www@26.233.112.129:5061>;tag=textclientv1.0
+To: "qqq" <sip:qqq@26.233.112.129:5060>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1700989273452"
+isSender="false" 
+transactionId="textclientv1.0:206b1a6c76a06f81a64acc4b47f22ca3@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="206b1a6c76a06f81a64acc4b47f22ca3@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 206b1a6c76a06f81a64acc4b47f22ca3@26.233.112.129
+CSeq: 1 MESSAGE
+From: "www" <sip:www@26.233.112.129:5061>;tag=textclientv1.0
+To: "qqq" <sip:qqq@26.233.112.129:5060>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1700989279925"
+isSender="true" 
+transactionId="textclientv1.0:c0f2aced71d19c13f93ff22a65a87317@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="c0f2aced71d19c13f93ff22a65a87317@26.233.112.129" 
+firstLine="MESSAGE sip:www@26.233.112.129:5061;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:www@26.233.112.129:5061;transport=udp SIP/2.0
+Call-ID: c0f2aced71d19c13f93ff22a65a87317@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qqq" <sip:qqq@26.233.112.129:5060>;tag=textclientv1.0
+To: "www" <sip:www@26.233.112.129:5061>
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Max-Forwards: 70
+Contact: "qqq" <sip:qqq@26.233.112.129:5060>
+Content-Type: text/plain
+Content-Length: 2
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1700989279926"
+isSender="false" 
+transactionId="textclientv1.0:c0f2aced71d19c13f93ff22a65a87317@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="c0f2aced71d19c13f93ff22a65a87317@26.233.112.129" 
+firstLine="MESSAGE sip:www@26.233.112.129:5061;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:www@26.233.112.129:5061;transport=udp SIP/2.0
+Call-ID: c0f2aced71d19c13f93ff22a65a87317@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qqq" <sip:qqq@26.233.112.129:5060>;tag=textclientv1.0
+To: "www" <sip:www@26.233.112.129:5061>
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Max-Forwards: 70
+Contact: "qqq" <sip:qqq@26.233.112.129:5060>
+Content-Type: text/plain
+Content-Length: 2
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1700989279933"
+isSender="true" 
+transactionId="textclientv1.0:c0f2aced71d19c13f93ff22a65a87317@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="c0f2aced71d19c13f93ff22a65a87317@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: c0f2aced71d19c13f93ff22a65a87317@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qqq" <sip:qqq@26.233.112.129:5060>;tag=textclientv1.0
+To: "www" <sip:www@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1700989279934"
+isSender="false" 
+transactionId="textclientv1.0:c0f2aced71d19c13f93ff22a65a87317@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="c0f2aced71d19c13f93ff22a65a87317@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: c0f2aced71d19c13f93ff22a65a87317@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qqq" <sip:qqq@26.233.112.129:5060>;tag=textclientv1.0
+To: "www" <sip:www@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1700989427906"
+isSender="true" 
+transactionId="textclientv1.0:2908f90b5afafbe181639076d0210945@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="2908f90b5afafbe181639076d0210945@26.233.112.129" 
+firstLine="MESSAGE sip:www@26.233.112.129:5061;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:www@26.233.112.129:5061;transport=udp SIP/2.0
+Call-ID: 2908f90b5afafbe181639076d0210945@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qqq" <sip:qqq@26.233.112.129:5060>;tag=textclientv1.0
+To: "www" <sip:www@26.233.112.129:5061>
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Max-Forwards: 70
+Contact: "qqq" <sip:qqq@26.233.112.129:5060>
+Content-Type: text/plain
+Content-Length: 2
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1700989427907"
+isSender="false" 
+transactionId="textclientv1.0:2908f90b5afafbe181639076d0210945@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="2908f90b5afafbe181639076d0210945@26.233.112.129" 
+firstLine="MESSAGE sip:www@26.233.112.129:5061;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:www@26.233.112.129:5061;transport=udp SIP/2.0
+Call-ID: 2908f90b5afafbe181639076d0210945@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qqq" <sip:qqq@26.233.112.129:5060>;tag=textclientv1.0
+To: "www" <sip:www@26.233.112.129:5061>
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Max-Forwards: 70
+Contact: "qqq" <sip:qqq@26.233.112.129:5060>
+Content-Type: text/plain
+Content-Length: 2
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1700989427909"
+isSender="true" 
+transactionId="textclientv1.0:2908f90b5afafbe181639076d0210945@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="2908f90b5afafbe181639076d0210945@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 2908f90b5afafbe181639076d0210945@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qqq" <sip:qqq@26.233.112.129:5060>;tag=textclientv1.0
+To: "www" <sip:www@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1700989427910"
+isSender="false" 
+transactionId="textclientv1.0:2908f90b5afafbe181639076d0210945@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="2908f90b5afafbe181639076d0210945@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 2908f90b5afafbe181639076d0210945@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qqq" <sip:qqq@26.233.112.129:5060>;tag=textclientv1.0
+To: "www" <sip:www@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701587389783"
+isSender="true" 
+transactionId="textclientv1.0:ae62a02c1eef96204ee7f39a28a46435@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="ae62a02c1eef96204ee7f39a28a46435@26.233.112.129" 
+firstLine="MESSAGE sip:111@26.233.112.129:5060;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:111@26.233.112.129:5060;transport=udp SIP/2.0
+Call-ID: ae62a02c1eef96204ee7f39a28a46435@26.233.112.129
+CSeq: 1 MESSAGE
+From: "120" <sip:120@26.233.112.129:5061>;tag=textclientv1.0
+To: "111" <sip:111@26.233.112.129:5060>
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Max-Forwards: 70
+Contact: "120" <sip:120@26.233.112.129:5061>
+Content-Type: text/plain
+Content-Length: 12
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701587389788"
+isSender="false" 
+transactionId="textclientv1.0:ae62a02c1eef96204ee7f39a28a46435@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="ae62a02c1eef96204ee7f39a28a46435@26.233.112.129" 
+firstLine="MESSAGE sip:111@26.233.112.129:5060;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:111@26.233.112.129:5060;transport=udp SIP/2.0
+Call-ID: ae62a02c1eef96204ee7f39a28a46435@26.233.112.129
+CSeq: 1 MESSAGE
+From: "120" <sip:120@26.233.112.129:5061>;tag=textclientv1.0
+To: "111" <sip:111@26.233.112.129:5060>
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Max-Forwards: 70
+Contact: "120" <sip:120@26.233.112.129:5061>
+Content-Type: text/plain
+Content-Length: 12
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701587389855"
+isSender="true" 
+transactionId="textclientv1.0:ae62a02c1eef96204ee7f39a28a46435@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="ae62a02c1eef96204ee7f39a28a46435@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: ae62a02c1eef96204ee7f39a28a46435@26.233.112.129
+CSeq: 1 MESSAGE
+From: "120" <sip:120@26.233.112.129:5061>;tag=textclientv1.0
+To: "111" <sip:111@26.233.112.129:5060>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701587389883"
+isSender="false" 
+transactionId="textclientv1.0:ae62a02c1eef96204ee7f39a28a46435@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="ae62a02c1eef96204ee7f39a28a46435@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: ae62a02c1eef96204ee7f39a28a46435@26.233.112.129
+CSeq: 1 MESSAGE
+From: "120" <sip:120@26.233.112.129:5061>;tag=textclientv1.0
+To: "111" <sip:111@26.233.112.129:5060>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701587398819"
+isSender="true" 
+transactionId="textclientv1.0:af082b6a6b87b8b772f23e31974ae95f@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="af082b6a6b87b8b772f23e31974ae95f@26.233.112.129" 
+firstLine="MESSAGE sip:111@26.233.112.129:5060;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:111@26.233.112.129:5060;transport=udp SIP/2.0
+Call-ID: af082b6a6b87b8b772f23e31974ae95f@26.233.112.129
+CSeq: 1 MESSAGE
+From: "120" <sip:120@26.233.112.129:5061>;tag=textclientv1.0
+To: "111" <sip:111@26.233.112.129:5060>
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Max-Forwards: 70
+Contact: "120" <sip:120@26.233.112.129:5061>
+Content-Type: text/plain
+Content-Length: 7
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701587398820"
+isSender="false" 
+transactionId="textclientv1.0:af082b6a6b87b8b772f23e31974ae95f@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="af082b6a6b87b8b772f23e31974ae95f@26.233.112.129" 
+firstLine="MESSAGE sip:111@26.233.112.129:5060;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:111@26.233.112.129:5060;transport=udp SIP/2.0
+Call-ID: af082b6a6b87b8b772f23e31974ae95f@26.233.112.129
+CSeq: 1 MESSAGE
+From: "120" <sip:120@26.233.112.129:5061>;tag=textclientv1.0
+To: "111" <sip:111@26.233.112.129:5060>
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Max-Forwards: 70
+Contact: "120" <sip:120@26.233.112.129:5061>
+Content-Type: text/plain
+Content-Length: 7
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701587398823"
+isSender="true" 
+transactionId="textclientv1.0:af082b6a6b87b8b772f23e31974ae95f@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="af082b6a6b87b8b772f23e31974ae95f@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: af082b6a6b87b8b772f23e31974ae95f@26.233.112.129
+CSeq: 1 MESSAGE
+From: "120" <sip:120@26.233.112.129:5061>;tag=textclientv1.0
+To: "111" <sip:111@26.233.112.129:5060>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701587398824"
+isSender="false" 
+transactionId="textclientv1.0:af082b6a6b87b8b772f23e31974ae95f@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="af082b6a6b87b8b772f23e31974ae95f@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: af082b6a6b87b8b772f23e31974ae95f@26.233.112.129
+CSeq: 1 MESSAGE
+From: "120" <sip:120@26.233.112.129:5061>;tag=textclientv1.0
+To: "111" <sip:111@26.233.112.129:5060>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701587405527"
+isSender="true" 
+transactionId="textclientv1.0:301b202d0a3a1e3c8eb38678277ad2d2@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="301b202d0a3a1e3c8eb38678277ad2d2@26.233.112.129" 
+firstLine="MESSAGE sip:120@26.233.112.129:5061;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:120@26.233.112.129:5061;transport=udp SIP/2.0
+Call-ID: 301b202d0a3a1e3c8eb38678277ad2d2@26.233.112.129
+CSeq: 1 MESSAGE
+From: "111" <sip:111@26.233.112.129:5060>;tag=textclientv1.0
+To: "120" <sip:120@26.233.112.129:5061>
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Max-Forwards: 70
+Contact: "111" <sip:111@26.233.112.129:5060>
+Content-Type: text/plain
+Content-Length: 8
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701587405528"
+isSender="false" 
+transactionId="textclientv1.0:301b202d0a3a1e3c8eb38678277ad2d2@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="301b202d0a3a1e3c8eb38678277ad2d2@26.233.112.129" 
+firstLine="MESSAGE sip:120@26.233.112.129:5061;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:120@26.233.112.129:5061;transport=udp SIP/2.0
+Call-ID: 301b202d0a3a1e3c8eb38678277ad2d2@26.233.112.129
+CSeq: 1 MESSAGE
+From: "111" <sip:111@26.233.112.129:5060>;tag=textclientv1.0
+To: "120" <sip:120@26.233.112.129:5061>
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Max-Forwards: 70
+Contact: "111" <sip:111@26.233.112.129:5060>
+Content-Type: text/plain
+Content-Length: 8
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701587405535"
+isSender="true" 
+transactionId="textclientv1.0:301b202d0a3a1e3c8eb38678277ad2d2@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="301b202d0a3a1e3c8eb38678277ad2d2@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 301b202d0a3a1e3c8eb38678277ad2d2@26.233.112.129
+CSeq: 1 MESSAGE
+From: "111" <sip:111@26.233.112.129:5060>;tag=textclientv1.0
+To: "120" <sip:120@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701587405536"
+isSender="false" 
+transactionId="textclientv1.0:301b202d0a3a1e3c8eb38678277ad2d2@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="301b202d0a3a1e3c8eb38678277ad2d2@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 301b202d0a3a1e3c8eb38678277ad2d2@26.233.112.129
+CSeq: 1 MESSAGE
+From: "111" <sip:111@26.233.112.129:5060>;tag=textclientv1.0
+To: "120" <sip:120@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701587510332"
+isSender="true" 
+transactionId="textclientv1.0:2bb3df6838235576bdd0878503a146d1@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="2bb3df6838235576bdd0878503a146d1@26.233.112.129" 
+firstLine="MESSAGE sip:111@26.233.112.129:5060;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:111@26.233.112.129:5060;transport=udp SIP/2.0
+Call-ID: 2bb3df6838235576bdd0878503a146d1@26.233.112.129
+CSeq: 1 MESSAGE
+From: "120" <sip:120@26.233.112.129:5061>;tag=textclientv1.0
+To: "111" <sip:111@26.233.112.129:5060>
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Max-Forwards: 70
+Contact: "120" <sip:120@26.233.112.129:5061>
+Content-Type: text/plain
+Content-Length: 7
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701587510333"
+isSender="false" 
+transactionId="textclientv1.0:2bb3df6838235576bdd0878503a146d1@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="2bb3df6838235576bdd0878503a146d1@26.233.112.129" 
+firstLine="MESSAGE sip:111@26.233.112.129:5060;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:111@26.233.112.129:5060;transport=udp SIP/2.0
+Call-ID: 2bb3df6838235576bdd0878503a146d1@26.233.112.129
+CSeq: 1 MESSAGE
+From: "120" <sip:120@26.233.112.129:5061>;tag=textclientv1.0
+To: "111" <sip:111@26.233.112.129:5060>
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Max-Forwards: 70
+Contact: "120" <sip:120@26.233.112.129:5061>
+Content-Type: text/plain
+Content-Length: 7
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701587510336"
+isSender="true" 
+transactionId="textclientv1.0:2bb3df6838235576bdd0878503a146d1@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="2bb3df6838235576bdd0878503a146d1@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 2bb3df6838235576bdd0878503a146d1@26.233.112.129
+CSeq: 1 MESSAGE
+From: "120" <sip:120@26.233.112.129:5061>;tag=textclientv1.0
+To: "111" <sip:111@26.233.112.129:5060>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701587510337"
+isSender="false" 
+transactionId="textclientv1.0:2bb3df6838235576bdd0878503a146d1@26.233.112.129:1:message:26.233.112.129:5061" 
+callId="2bb3df6838235576bdd0878503a146d1@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 2bb3df6838235576bdd0878503a146d1@26.233.112.129
+CSeq: 1 MESSAGE
+From: "120" <sip:120@26.233.112.129:5061>;tag=textclientv1.0
+To: "111" <sip:111@26.233.112.129:5060>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5061;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:6050" 
+time="1701590327171"
+isSender="true" 
+transactionId="textclientv1.0:0e7fe3a60fabf249392901fab9a44e53@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="0e7fe3a60fabf249392901fab9a44e53@26.233.112.129" 
+firstLine="MESSAGE sip:101@26.233.112.129:6050;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:101@26.233.112.129:6050;transport=udp SIP/2.0
+Call-ID: 0e7fe3a60fabf249392901fab9a44e53@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qqq" <sip:qqq@26.233.112.129:5060>;tag=textclientv1.0
+To: "101" <sip:101@26.233.112.129:6050>
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Max-Forwards: 70
+Contact: "qqq" <sip:qqq@26.233.112.129:5060>
+Content-Type: application/octet-stream
+Content-Length: 28
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:6050" 
+time="1701590327176"
+isSender="false" 
+transactionId="textclientv1.0:0e7fe3a60fabf249392901fab9a44e53@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="0e7fe3a60fabf249392901fab9a44e53@26.233.112.129" 
+firstLine="MESSAGE sip:101@26.233.112.129:6050;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:101@26.233.112.129:6050;transport=udp SIP/2.0
+Call-ID: 0e7fe3a60fabf249392901fab9a44e53@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qqq" <sip:qqq@26.233.112.129:5060>;tag=textclientv1.0
+To: "101" <sip:101@26.233.112.129:6050>
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Max-Forwards: 70
+Contact: "qqq" <sip:qqq@26.233.112.129:5060>
+Content-Type: application/octet-stream
+Content-Length: 28
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:6050" 
+to="26.233.112.129:5060" 
+time="1701590327246"
+isSender="true" 
+transactionId="textclientv1.0:0e7fe3a60fabf249392901fab9a44e53@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="0e7fe3a60fabf249392901fab9a44e53@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 0e7fe3a60fabf249392901fab9a44e53@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qqq" <sip:qqq@26.233.112.129:5060>;tag=textclientv1.0
+To: "101" <sip:101@26.233.112.129:6050>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:6050" 
+to="26.233.112.129:5060" 
+time="1701590327274"
+isSender="false" 
+transactionId="textclientv1.0:0e7fe3a60fabf249392901fab9a44e53@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="0e7fe3a60fabf249392901fab9a44e53@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 0e7fe3a60fabf249392901fab9a44e53@26.233.112.129
+CSeq: 1 MESSAGE
+From: "qqq" <sip:qqq@26.233.112.129:5060>;tag=textclientv1.0
+To: "101" <sip:101@26.233.112.129:6050>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701591500438"
+isSender="true" 
+transactionId="textclientv1.0:ab03a4db586ac0fd5e4cc21d4dd61fa0@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="ab03a4db586ac0fd5e4cc21d4dd61fa0@26.233.112.129" 
+firstLine="MESSAGE sip:101@26.233.112.129:5061;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:101@26.233.112.129:5061;transport=udp SIP/2.0
+Call-ID: ab03a4db586ac0fd5e4cc21d4dd61fa0@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "101" <sip:101@26.233.112.129:5061>
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Max-Forwards: 70
+Contact: "100" <sip:100@26.233.112.129:5060>
+Content-Type: text/plain
+Content-Length: 7
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701591500445"
+isSender="false" 
+transactionId="textclientv1.0:ab03a4db586ac0fd5e4cc21d4dd61fa0@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="ab03a4db586ac0fd5e4cc21d4dd61fa0@26.233.112.129" 
+firstLine="MESSAGE sip:101@26.233.112.129:5061;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:101@26.233.112.129:5061;transport=udp SIP/2.0
+Call-ID: ab03a4db586ac0fd5e4cc21d4dd61fa0@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "101" <sip:101@26.233.112.129:5061>
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Max-Forwards: 70
+Contact: "100" <sip:100@26.233.112.129:5060>
+Content-Type: text/plain
+Content-Length: 7
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701591500519"
+isSender="true" 
+transactionId="textclientv1.0:ab03a4db586ac0fd5e4cc21d4dd61fa0@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="ab03a4db586ac0fd5e4cc21d4dd61fa0@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: ab03a4db586ac0fd5e4cc21d4dd61fa0@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "101" <sip:101@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701591500550"
+isSender="false" 
+transactionId="textclientv1.0:ab03a4db586ac0fd5e4cc21d4dd61fa0@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="ab03a4db586ac0fd5e4cc21d4dd61fa0@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: ab03a4db586ac0fd5e4cc21d4dd61fa0@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "101" <sip:101@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701591551223"
+isSender="true" 
+transactionId="textclientv1.0:1cda5f9fbd8abd65164e2d9548eb0caa@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="1cda5f9fbd8abd65164e2d9548eb0caa@26.233.112.129" 
+firstLine="MESSAGE sip:101@26.233.112.129:5061;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:101@26.233.112.129:5061;transport=udp SIP/2.0
+Call-ID: 1cda5f9fbd8abd65164e2d9548eb0caa@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "101" <sip:101@26.233.112.129:5061>
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Max-Forwards: 70
+Contact: "100" <sip:100@26.233.112.129:5060>
+Content-Type: application/octet-stream
+Content-Length: 28
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701591551224"
+isSender="false" 
+transactionId="textclientv1.0:1cda5f9fbd8abd65164e2d9548eb0caa@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="1cda5f9fbd8abd65164e2d9548eb0caa@26.233.112.129" 
+firstLine="MESSAGE sip:101@26.233.112.129:5061;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:101@26.233.112.129:5061;transport=udp SIP/2.0
+Call-ID: 1cda5f9fbd8abd65164e2d9548eb0caa@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "101" <sip:101@26.233.112.129:5061>
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Max-Forwards: 70
+Contact: "100" <sip:100@26.233.112.129:5060>
+Content-Type: application/octet-stream
+Content-Length: 28
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701591551228"
+isSender="true" 
+transactionId="textclientv1.0:1cda5f9fbd8abd65164e2d9548eb0caa@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="1cda5f9fbd8abd65164e2d9548eb0caa@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 1cda5f9fbd8abd65164e2d9548eb0caa@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "101" <sip:101@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701591551229"
+isSender="false" 
+transactionId="textclientv1.0:1cda5f9fbd8abd65164e2d9548eb0caa@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="1cda5f9fbd8abd65164e2d9548eb0caa@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 1cda5f9fbd8abd65164e2d9548eb0caa@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "101" <sip:101@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701592360236"
+isSender="true" 
+transactionId="textclientv1.0:0fbf01189662e363116d312feed3d47f@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="0fbf01189662e363116d312feed3d47f@26.233.112.129" 
+firstLine="MESSAGE sip:201@26.233.112.129:5061;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:201@26.233.112.129:5061;transport=udp SIP/2.0
+Call-ID: 0fbf01189662e363116d312feed3d47f@26.233.112.129
+CSeq: 1 MESSAGE
+From: "200" <sip:200@26.233.112.129:5060>;tag=textclientv1.0
+To: "201" <sip:201@26.233.112.129:5061>
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Max-Forwards: 70
+Contact: "200" <sip:200@26.233.112.129:5060>
+Content-Type: application/octet-stream
+Content-Length: 28
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701592360242"
+isSender="false" 
+transactionId="textclientv1.0:0fbf01189662e363116d312feed3d47f@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="0fbf01189662e363116d312feed3d47f@26.233.112.129" 
+firstLine="MESSAGE sip:201@26.233.112.129:5061;transport=udp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:201@26.233.112.129:5061;transport=udp SIP/2.0
+Call-ID: 0fbf01189662e363116d312feed3d47f@26.233.112.129
+CSeq: 1 MESSAGE
+From: "200" <sip:200@26.233.112.129:5060>;tag=textclientv1.0
+To: "201" <sip:201@26.233.112.129:5061>
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Max-Forwards: 70
+Contact: "200" <sip:200@26.233.112.129:5060>
+Content-Type: application/octet-stream
+Content-Length: 28
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701592383208"
+isSender="true" 
+transactionId="textclientv1.0:0fbf01189662e363116d312feed3d47f@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="0fbf01189662e363116d312feed3d47f@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 0fbf01189662e363116d312feed3d47f@26.233.112.129
+CSeq: 1 MESSAGE
+From: "200" <sip:200@26.233.112.129:5060>;tag=textclientv1.0
+To: "201" <sip:201@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701592383244"
+isSender="false" 
+transactionId="textclientv1.0:0fbf01189662e363116d312feed3d47f@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="0fbf01189662e363116d312feed3d47f@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 0fbf01189662e363116d312feed3d47f@26.233.112.129
+CSeq: 1 MESSAGE
+From: "200" <sip:200@26.233.112.129:5060>;tag=textclientv1.0
+To: "201" <sip:201@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/UDP 26.233.112.129:5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701593414089"
+isSender="true" 
+transactionId="textclientv1.0:7d40e28c88324d4a06b7f7a3e56042c8@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="7d40e28c88324d4a06b7f7a3e56042c8@26.233.112.129" 
+firstLine="MESSAGE sip:200@26.233.112.129:5061;transport=tcp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:200@26.233.112.129:5061;transport=tcp SIP/2.0
+Call-ID: 7d40e28c88324d4a06b7f7a3e56042c8@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "200" <sip:200@26.233.112.129:5061>
+Via: SIP/2.0/TCP 26.233.112.129:5060;branch=branch1
+Max-Forwards: 70
+Contact: "100" <sip:100@26.233.112.129:5060>
+Content-Type: text/plain
+Content-Length: 6
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701593414155"
+isSender="false" 
+transactionId="textclientv1.0:7d40e28c88324d4a06b7f7a3e56042c8@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="7d40e28c88324d4a06b7f7a3e56042c8@26.233.112.129" 
+firstLine="MESSAGE sip:200@26.233.112.129:5061;transport=tcp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:200@26.233.112.129:5061;transport=tcp SIP/2.0
+Call-ID: 7d40e28c88324d4a06b7f7a3e56042c8@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "200" <sip:200@26.233.112.129:5061>
+Via: SIP/2.0/TCP 26.233.112.129:5060;rport=5060;branch=branch1
+Max-Forwards: 70
+Contact: "100" <sip:100@26.233.112.129:5060>
+Content-Type: text/plain
+Content-Length: 6
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701593414166"
+isSender="true" 
+transactionId="textclientv1.0:7d40e28c88324d4a06b7f7a3e56042c8@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="7d40e28c88324d4a06b7f7a3e56042c8@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 7d40e28c88324d4a06b7f7a3e56042c8@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "200" <sip:200@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/TCP 26.233.112.129:5060;rport=5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701593414197"
+isSender="false" 
+transactionId="textclientv1.0:7d40e28c88324d4a06b7f7a3e56042c8@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="7d40e28c88324d4a06b7f7a3e56042c8@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 7d40e28c88324d4a06b7f7a3e56042c8@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "200" <sip:200@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/TCP 26.233.112.129:5060;rport=5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701593436630"
+isSender="true" 
+transactionId="textclientv1.0:337fc460e04e980880a4c2a1336fcf0d@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="337fc460e04e980880a4c2a1336fcf0d@26.233.112.129" 
+firstLine="MESSAGE sip:200@26.233.112.129:5061;transport=tcp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:200@26.233.112.129:5061;transport=tcp SIP/2.0
+Call-ID: 337fc460e04e980880a4c2a1336fcf0d@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "200" <sip:200@26.233.112.129:5061>
+Via: SIP/2.0/TCP 26.233.112.129:5060;branch=branch1
+Max-Forwards: 70
+Contact: "100" <sip:100@26.233.112.129:5060>
+Content-Type: application/octet-stream
+Content-Length: 21156
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701593436633"
+isSender="false" 
+transactionId="textclientv1.0:337fc460e04e980880a4c2a1336fcf0d@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="337fc460e04e980880a4c2a1336fcf0d@26.233.112.129" 
+firstLine="MESSAGE sip:200@26.233.112.129:5061;transport=tcp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:200@26.233.112.129:5061;transport=tcp SIP/2.0
+Call-ID: 337fc460e04e980880a4c2a1336fcf0d@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "200" <sip:200@26.233.112.129:5061>
+Via: SIP/2.0/TCP 26.233.112.129:5060;rport=5060;branch=branch1
+Max-Forwards: 70
+Contact: "100" <sip:100@26.233.112.129:5060>
+Content-Type: application/octet-stream
+Content-Length: 21156
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701593454878"
+isSender="true" 
+transactionId="textclientv1.0:337fc460e04e980880a4c2a1336fcf0d@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="337fc460e04e980880a4c2a1336fcf0d@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 337fc460e04e980880a4c2a1336fcf0d@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "200" <sip:200@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/TCP 26.233.112.129:5060;rport=5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701593454879"
+isSender="false" 
+transactionId="textclientv1.0:337fc460e04e980880a4c2a1336fcf0d@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="337fc460e04e980880a4c2a1336fcf0d@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 337fc460e04e980880a4c2a1336fcf0d@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "200" <sip:200@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/TCP 26.233.112.129:5060;rport=5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701593529401"
+isSender="true" 
+transactionId="textclientv1.0:f091d44ceb2324619f4b16ff0879b090@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="f091d44ceb2324619f4b16ff0879b090@26.233.112.129" 
+firstLine="MESSAGE sip:200@26.233.112.129:5061;transport=tcp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:200@26.233.112.129:5061;transport=tcp SIP/2.0
+Call-ID: f091d44ceb2324619f4b16ff0879b090@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "200" <sip:200@26.233.112.129:5061>
+Via: SIP/2.0/TCP 26.233.112.129:5060;branch=branch1
+Max-Forwards: 70
+Contact: "100" <sip:100@26.233.112.129:5060>
+Content-Type: application/octet-stream
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701593529402"
+isSender="false" 
+transactionId="textclientv1.0:f091d44ceb2324619f4b16ff0879b090@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="f091d44ceb2324619f4b16ff0879b090@26.233.112.129" 
+firstLine="MESSAGE sip:200@26.233.112.129:5061;transport=tcp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:200@26.233.112.129:5061;transport=tcp SIP/2.0
+Call-ID: f091d44ceb2324619f4b16ff0879b090@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "200" <sip:200@26.233.112.129:5061>
+Via: SIP/2.0/TCP 26.233.112.129:5060;rport=5060;branch=branch1
+Max-Forwards: 70
+Contact: "100" <sip:100@26.233.112.129:5060>
+Content-Type: application/octet-stream
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701593540125"
+isSender="true" 
+transactionId="textclientv1.0:f091d44ceb2324619f4b16ff0879b090@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="f091d44ceb2324619f4b16ff0879b090@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: f091d44ceb2324619f4b16ff0879b090@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "200" <sip:200@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/TCP 26.233.112.129:5060;rport=5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701593540126"
+isSender="false" 
+transactionId="textclientv1.0:f091d44ceb2324619f4b16ff0879b090@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="f091d44ceb2324619f4b16ff0879b090@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: f091d44ceb2324619f4b16ff0879b090@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "200" <sip:200@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/TCP 26.233.112.129:5060;rport=5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701593831097"
+isSender="true" 
+transactionId="textclientv1.0:a59ccf9eee9582d876795da3d028fca2@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="a59ccf9eee9582d876795da3d028fca2@26.233.112.129" 
+firstLine="MESSAGE sip:200@26.233.112.129:5061;transport=tcp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:200@26.233.112.129:5061;transport=tcp SIP/2.0
+Call-ID: a59ccf9eee9582d876795da3d028fca2@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "200" <sip:200@26.233.112.129:5061>
+Via: SIP/2.0/TCP 26.233.112.129:5060;branch=branch1
+Max-Forwards: 70
+Contact: "100" <sip:100@26.233.112.129:5060>
+Content-Type: application/octet-stream
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701593831169"
+isSender="false" 
+transactionId="textclientv1.0:a59ccf9eee9582d876795da3d028fca2@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="a59ccf9eee9582d876795da3d028fca2@26.233.112.129" 
+firstLine="MESSAGE sip:200@26.233.112.129:5061;transport=tcp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:200@26.233.112.129:5061;transport=tcp SIP/2.0
+Call-ID: a59ccf9eee9582d876795da3d028fca2@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "200" <sip:200@26.233.112.129:5061>
+Via: SIP/2.0/TCP 26.233.112.129:5060;rport=5060;branch=branch1
+Max-Forwards: 70
+Contact: "100" <sip:100@26.233.112.129:5060>
+Content-Type: application/octet-stream
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701593845819"
+isSender="true" 
+transactionId="textclientv1.0:a59ccf9eee9582d876795da3d028fca2@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="a59ccf9eee9582d876795da3d028fca2@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: a59ccf9eee9582d876795da3d028fca2@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "200" <sip:200@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/TCP 26.233.112.129:5060;rport=5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701593845844"
+isSender="false" 
+transactionId="textclientv1.0:a59ccf9eee9582d876795da3d028fca2@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="a59ccf9eee9582d876795da3d028fca2@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: a59ccf9eee9582d876795da3d028fca2@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "200" <sip:200@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/TCP 26.233.112.129:5060;rport=5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701593963994"
+isSender="true" 
+transactionId="textclientv1.0:58bbcfb21d0e2f709540577c74587263@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="58bbcfb21d0e2f709540577c74587263@26.233.112.129" 
+firstLine="MESSAGE sip:200@26.233.112.129:5061;transport=tcp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:200@26.233.112.129:5061;transport=tcp SIP/2.0
+Call-ID: 58bbcfb21d0e2f709540577c74587263@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "200" <sip:200@26.233.112.129:5061>
+Via: SIP/2.0/TCP 26.233.112.129:5060;branch=branch1
+Max-Forwards: 70
+Contact: "100" <sip:100@26.233.112.129:5060>
+Content-Type: application/octet-stream
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:5061" 
+time="1701593964077"
+isSender="false" 
+transactionId="textclientv1.0:58bbcfb21d0e2f709540577c74587263@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="58bbcfb21d0e2f709540577c74587263@26.233.112.129" 
+firstLine="MESSAGE sip:200@26.233.112.129:5061;transport=tcp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:200@26.233.112.129:5061;transport=tcp SIP/2.0
+Call-ID: 58bbcfb21d0e2f709540577c74587263@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "200" <sip:200@26.233.112.129:5061>
+Via: SIP/2.0/TCP 26.233.112.129:5060;rport=5060;branch=branch1
+Max-Forwards: 70
+Contact: "100" <sip:100@26.233.112.129:5060>
+Content-Type: application/octet-stream
+Content-Length: 11
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701593980575"
+isSender="true" 
+transactionId="textclientv1.0:58bbcfb21d0e2f709540577c74587263@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="58bbcfb21d0e2f709540577c74587263@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 58bbcfb21d0e2f709540577c74587263@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "200" <sip:200@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/TCP 26.233.112.129:5060;rport=5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5061" 
+to="26.233.112.129:5060" 
+time="1701593980604"
+isSender="false" 
+transactionId="textclientv1.0:58bbcfb21d0e2f709540577c74587263@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="58bbcfb21d0e2f709540577c74587263@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 58bbcfb21d0e2f709540577c74587263@26.233.112.129
+CSeq: 1 MESSAGE
+From: "100" <sip:100@26.233.112.129:5060>;tag=textclientv1.0
+To: "200" <sip:200@26.233.112.129:5061>;tag=888
+Via: SIP/2.0/TCP 26.233.112.129:5060;rport=5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<!-- Use the  Trace Viewer in src/tools/tracesviewer to view this  trace  
+Here are the stack configuration properties 
+javax.sip.IP_ADDRESS= 26.233.112.129
+javax.sip.STACK_NAME= TextClient
+javax.sip.ROUTER_PATH= null
+javax.sip.OUTBOUND_PROXY= null
+-->
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:6050" 
+time="1701594210080"
+isSender="true" 
+transactionId="textclientv1.0:142924dd9764da19a6dcf670e79b7e7a@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="142924dd9764da19a6dcf670e79b7e7a@26.233.112.129" 
+firstLine="MESSAGE sip:100@26.233.112.129:6050;transport=tcp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:100@26.233.112.129:6050;transport=tcp SIP/2.0
+Call-ID: 142924dd9764da19a6dcf670e79b7e7a@26.233.112.129
+CSeq: 1 MESSAGE
+From: "200" <sip:200@26.233.112.129:5060>;tag=textclientv1.0
+To: "100" <sip:100@26.233.112.129:6050>
+Via: SIP/2.0/TCP 26.233.112.129:5060;branch=branch1
+Max-Forwards: 70
+Contact: "200" <sip:200@26.233.112.129:5060>
+Content-Type: application/octet-stream
+Content-Length: 40714829
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:5060" 
+to="26.233.112.129:6050" 
+time="1701594210478"
+isSender="false" 
+transactionId="textclientv1.0:142924dd9764da19a6dcf670e79b7e7a@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="142924dd9764da19a6dcf670e79b7e7a@26.233.112.129" 
+firstLine="MESSAGE sip:100@26.233.112.129:6050;transport=tcp SIP/2.0" 
+>
+<![CDATA[MESSAGE sip:100@26.233.112.129:6050;transport=tcp SIP/2.0
+Call-ID: 142924dd9764da19a6dcf670e79b7e7a@26.233.112.129
+CSeq: 1 MESSAGE
+From: "200" <sip:200@26.233.112.129:5060>;tag=textclientv1.0
+To: "100" <sip:100@26.233.112.129:6050>
+Via: SIP/2.0/TCP 26.233.112.129:5060;rport=5060;branch=branch1
+Max-Forwards: 70
+Contact: "200" <sip:200@26.233.112.129:5060>
+Content-Type: application/octet-stream
+Content-Length: 40714829
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:6050" 
+to="26.233.112.129:5060" 
+time="1701594228663"
+isSender="true" 
+transactionId="textclientv1.0:142924dd9764da19a6dcf670e79b7e7a@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="142924dd9764da19a6dcf670e79b7e7a@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 142924dd9764da19a6dcf670e79b7e7a@26.233.112.129
+CSeq: 1 MESSAGE
+From: "200" <sip:200@26.233.112.129:5060>;tag=textclientv1.0
+To: "100" <sip:100@26.233.112.129:6050>;tag=888
+Via: SIP/2.0/TCP 26.233.112.129:5060;rport=5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+
+<message
+from="26.233.112.129:6050" 
+to="26.233.112.129:5060" 
+time="1701594228689"
+isSender="false" 
+transactionId="textclientv1.0:142924dd9764da19a6dcf670e79b7e7a@26.233.112.129:1:message:26.233.112.129:5060" 
+callId="142924dd9764da19a6dcf670e79b7e7a@26.233.112.129" 
+firstLine="SIP/2.0 200 OK" 
+>
+<![CDATA[SIP/2.0 200 OK
+Call-ID: 142924dd9764da19a6dcf670e79b7e7a@26.233.112.129
+CSeq: 1 MESSAGE
+From: "200" <sip:200@26.233.112.129:5060>;tag=textclientv1.0
+To: "100" <sip:100@26.233.112.129:6050>;tag=888
+Via: SIP/2.0/TCP 26.233.112.129:5060;rport=5060;branch=branch1
+Content-Length: 0
+
+]]>
+</message>
+

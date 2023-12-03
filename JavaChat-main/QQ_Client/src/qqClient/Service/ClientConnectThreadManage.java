@@ -5,9 +5,6 @@ import java.util.HashMap;
 
 /**
  * 
- * @author sky
- * @version 1.0
- * 
  * 	管理  客户端连接到服务端的线程  的类
  * 
  *  客户端 线程管理类

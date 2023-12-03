@@ -15,8 +15,6 @@ import qqCommon.MessageType;
 
 /**
  * 
- * @author sky
- * @version 1.0
  *	
  *	客户端 线程类
  *		1. 接收在线用户列表
@@ -94,7 +92,7 @@ public class ClientConnectThread extends Thread{
 					println("   " + message.getFileName() + "\n");			
 					
 					// 弹窗提示输入 保存文件 的路径
-					// 调用本类定义方法       SaveFileAddress(使用者, 发送者,发送的文件名)
+					// 调用本类定义方法       SaveFileAddress(接收者, 发送者,发送的文件名)
 					String srcPsth = saveFileAddress(message.getGetter(), message.getSender(),
 							message.getFileName());
 					

@@ -6,8 +6,6 @@ import java.io.ObjectInputStream;
 import java.io.StreamCorruptedException;
 
 /**
- * @author sky
- * @version 4.0
  * 	 定义对象输入流
  */
 public class MyObjectInputStream extends ObjectInputStream{

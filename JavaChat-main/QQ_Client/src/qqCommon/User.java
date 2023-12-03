@@ -4,8 +4,6 @@ import java.io.Serializable;
 
 /**
  * 
- * @author sky
- * 
  *	表示一个 用户/客户信息
  *
  *	使用对象流 进行传输

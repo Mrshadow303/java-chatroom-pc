@@ -1,11 +1,18 @@
 package qqClient.view;
 
+import javax.sip.InvalidArgumentException;
+import javax.sip.ObjectInUseException;
+import javax.sip.PeerUnavailableException;
+import javax.sip.TransportNotSupportedException;
 import javax.swing.*;    
 
 import qqClient.Service.UserClientService;
+import sip.SipLayer;
 
 import java.awt.*;
 import java.awt.event.*;
+import java.net.InetAddress;
+import java.util.TooManyListenersException;
 
 
 /**
@@ -33,6 +40,7 @@ public class LoginFrame extends JFrame implements ActionListener {
 	private JTextField txt_user;             // 用户名输入
 	private JPasswordField txt_pwd;          // 密码输入
 	private JButton btn_sweep, btn_regist;   // 清除 与 注册 按钮
+	private JButton btn_sip;                 //sip
 	
 	// 底部登录栏
 	private JButton btn_login;
@@ -93,7 +101,7 @@ public class LoginFrame extends JFrame implements ActionListener {
 	/* 定义中间右侧 输入栏组件 */
 		label_user = new JLabel("用户名", JLabel.CENTER);
 		label_user.setFont(new Font("黑体", Font.PLAIN, 16));
-		label_pwd = new JLabel("密  码", JLabel.CENTER);
+		label_pwd = new JLabel("密  码/端口号", JLabel.CENTER);
 		label_pwd.setFont(new Font("黑体", Font.PLAIN, 16));
 		txt_user = new JTextField();
 		txt_user.setFont(new Font("黑体", Font.PLAIN, 14));
@@ -109,7 +117,12 @@ public class LoginFrame extends JFrame implements ActionListener {
 		btn_regist.setFont(new Font("黑体", Font.PLAIN, 16));
 		btn_regist.setPreferredSize(new Dimension(20,20));
 		btn_regist.setForeground(Color.blue);
+		btn_sip = new JButton("sip通讯");
+		btn_sip.setFont(new Font("黑体", Font.PLAIN, 16));
+		btn_sip.setForeground(Color.blue);
 	
+		
+		
 		// 输入栏 加入组件
 		jp_input.setLayout(new GridLayout(3,2));
 		jp_input.add(label_user);
@@ -117,9 +130,10 @@ public class LoginFrame extends JFrame implements ActionListener {
 		jp_input.add(label_pwd);
 		jp_input.add(txt_pwd);
 		
-		jp_button.setLayout(new GridLayout(2,1));
+		jp_button.setLayout(new GridLayout(3,1));
 		jp_button.add(btn_sweep);
 		jp_button.add(btn_regist);
+		jp_button.add(btn_sip);
 		
 	
 	/* 设置 整个页面 方位布局 */
@@ -130,6 +144,7 @@ public class LoginFrame extends JFrame implements ActionListener {
 		btn_login.addActionListener(this);   // 登录按钮 响应
 		btn_sweep.addActionListener(this);   // 清除号码 响应
 		btn_regist.addActionListener(this);  // 注册事件 响应
+		btn_sip.addActionListener(this);     // sip 响应
 		
 		// 设置窗口
 		setVisible(true);
@@ -196,6 +211,20 @@ public class LoginFrame extends JFrame implements ActionListener {
 			// 点击清除号码
 			txt_pwd.setText("");
 			txt_user.setText("");
+		}else if (e.getSource() == btn_sip) {
+			// 点击进入sip通讯
+			this.setVisible(false);
+			try {
+				String userId = txt_user.getText().trim();
+				int password =Integer.parseInt(new String(txt_pwd.getPassword()).trim());
+				SipLayer sl = new SipLayer(userId,InetAddress.getLocalHost().getHostAddress(),password);
+				TextClient tc = new TextClient(sl);
+				sl.setMessageProcessor(tc);
+				tc.show();
+				
+			} catch (Exception e1) {
+				e1.printStackTrace();
+			}
 		}
 	}
 	

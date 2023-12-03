@@ -5,8 +5,6 @@ import java.io.ObjectOutputStream;
 import java.io.OutputStream;
 
 /**
- * @author sky
- * @version 4.0
  * 	 定义对象输出流
  */
 public class MyObjectOutputStream extends ObjectOutputStream{

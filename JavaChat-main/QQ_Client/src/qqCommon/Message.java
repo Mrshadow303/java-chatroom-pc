@@ -4,7 +4,6 @@ import java.io.Serializable;
 
 /**
  * 
- * @author sky
  *	
  *	表示 客户端和服务端 通信时的消息对象
  */

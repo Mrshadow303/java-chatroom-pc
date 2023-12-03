@@ -2,6 +2,7 @@ package qqClient.view;
 
 import javax.swing.*;  
 
+
 import qqClient.Service.FileClinetService;
 import qqClient.Service.MessageClientService;
 import qqClient.Service.UserClientService;
@@ -15,10 +16,9 @@ import java.awt.event.WindowEvent;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.io.File;
+import java.util.Properties;
 
 /**
- * @author sky
- * @version 3.0
  * 
  * 	客户端 聊天界面窗口
  * 		1. 聊天
@@ -36,6 +36,7 @@ public class ChatFrame extends JFrame {
     //发送文件控件
     private JTextField txt_SendFile = new JTextField();     // 文件路径 文本
     private JButton btn_SendFile = new JButton();           // 发送文件按钮
+
     private JButton btn_ChooseFile = new JButton();         // 文件选择按钮
     private  JProgressBar progressBar = new JProgressBar(); // 滚动条
     
@@ -86,6 +87,7 @@ public class ChatFrame extends JFrame {
         this.add(btn_SendFile);
         btn_SendFile.setFont(new Font("黑体", Font.BOLD, 14));
         
+       
 		
 	/* 消息输入 */
         txt_Send.setBounds(10, 405, 640, 90);     
@@ -231,9 +233,8 @@ public class ChatFrame extends JFrame {
             }
         	
 		});
-
+        
     }
-    
     
 /*   get  set 方法   */
 	public JTextArea getTxt_Chat() {

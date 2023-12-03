@@ -13,8 +13,6 @@ import qqCommon.MessageType;
 
 /**
  * 
- * @author sky
- * @version 1.0
  * 
  * 	客户端 -- 文件传输类
  * 

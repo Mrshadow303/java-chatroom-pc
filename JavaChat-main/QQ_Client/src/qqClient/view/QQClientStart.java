@@ -2,8 +2,6 @@ package qqClient.view;
 
 
 /**
- * @author sky
- * @version 3.0
  * 
  * 	 客户端启动类
  */
